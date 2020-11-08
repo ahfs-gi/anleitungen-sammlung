@@ -6,7 +6,7 @@
 
 ## Node.js und Ionic installieren
 
-1. Die Website https://nodejs.org öffnen und die Installationsdatei für Node.js (LTS Version) herunterladen. 
+1. Die Website [https://nodejs.org](https://nodejs.org) öffnen und die Installationsdatei für Node.js (LTS Version) herunterladen. 
 
 <img src="https://user-images.githubusercontent.com/46280954/98447928-f8b5bb00-2128-11eb-91a7-a667d31b6f4b.png" width="600">
 
@@ -29,11 +29,11 @@
 <img src="https://user-images.githubusercontent.com/46280954/98448213-bc835a00-212a-11eb-919a-108d1ed3d1fe.png" width="400">
 
 ## Visual Studio Code installieren
-Die Website https://code.visualstudio.com/ öffnen, die Installationsdatei herunterladen und installieren (durchklicken). 
+Die Website [https://code.visualstudio.com/](https://code.visualstudio.com/) öffnen, die Installationsdatei herunterladen und installieren (durchklicken). 
 <img src="https://user-images.githubusercontent.com/46280954/98448225-dde44600-212a-11eb-8273-01abac5f4f5e.png" width="600">
 
 ## Git installieren
-1. Die Website https://git-scm.com/downloads öffnen, die Installationsdatei herunterladen und installieren. Dabei bitte beachten: 
+1. Die Website [https://git-scm.com/downloads](https://git-scm.com/downloads) öffnen, die Installationsdatei herunterladen und installieren. Dabei bitte beachten: 
 <img src="https://user-images.githubusercontent.com/46280954/98448492-a7a7c600-212c-11eb-82f6-08bcb3a5c3da.png" width="600">
 
 Bei diesem Schritt Visual Studio Code als Standardeditor auswählen. 
