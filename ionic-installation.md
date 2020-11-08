@@ -1,4 +1,4 @@
-# Ionic Projekt Installationsanleitung
+# Ionic Projekt Installationsanleitung (Windows)
 #### Schritte
 1. Node.js und Ionic installieren
 2. Visual Studio Code installieren
