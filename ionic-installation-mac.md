@@ -26,7 +26,7 @@ npm install -g @ionic/cli
 
 ## Visual Studio Code installieren
 Die Website [https://code.visualstudio.com/](https://code.visualstudio.com/) öffnen, die Installationsdatei herunterladen und installieren (durchklicken). 
-<img src="https://user-images.githubusercontent.com/46280954/98471098-4f36fe00-21ea-11eb-9b3d-e01cae69a096.png" width="600">
+<img src="images/ionic-installation11.png" width="600">
 
 ## Git installieren
 
