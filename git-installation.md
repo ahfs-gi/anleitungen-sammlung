@@ -3,10 +3,12 @@
 Die Website [https://git-scm.com/downloads](https://git-scm.com/downloads) öffnen, die Installationsdatei herunterladen und installieren.
 <img src="images/ionic-installation8.png" width="600">
 
-Empfohlen: Bei diesem Schritt [Visual Studio Code](code.visualstudio.com) als Standardeditor auswählen.
+Empfohlen: Bei diesem Schritt [Visual Studio Code](https://code.visualstudio.com/) als Standardeditor auswählen.
+
 <img src="images/ionic-installation9.png" width="400">
 
 Wichtig: Bei diesem Schritt, wo die mittlere Checkbox standardmäßig ausgewählt ist, nichts verändern! 
+
 <img src="images/ionic-installation10.png" width="400">
 
 In den übrigen Schritten ebenfalls einfach die Standardeinstellungen belassen.

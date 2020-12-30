@@ -1,5 +1,5 @@
 # Git in Visual Studio Code
-Visual Studio Code bietet eine grafische Benutzeroberfläche, mit der man Git Befehle einfacher ausführen kann.
+[Visual Studio Code](https://code.visualstudio.com/) bietet eine grafische Benutzeroberfläche, mit der man Git Befehle einfacher ausführen kann.
 
 <img src="images/visualstudiocode-git.png" width="600px">
 

@@ -12,6 +12,7 @@ Mithilfe von der Versionsverwaltungssoftware Git können viele Leute gleichzeiti
 
 - [Git Installation](git-installation.md)
 - [Einführung in Git und GitHub](git-github.md)
+- [Git in Visual Studio Code](git-visualstudiocode.md)
 
 ## Ionic Projekt
 
