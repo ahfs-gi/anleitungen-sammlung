@@ -15,6 +15,10 @@ Wenn man auf die drei Punkte klickt, erscheinen mehr Optionen zum auswählen.
 
 Wichtig und häufig benutzt sind vor allem Push und Pull (`git push` und `git pull`).
 
+Wenn man die Dateien unter dieser Ansicht öffnet, werden die Veränderungen zeilenweise angezeigt.
+
+<img src="images/visualstudiocode-git3.png" width="600px">
+
 Weitere Informationen und die offizielle Dokumentation unter:
 
 [https://code.visualstudio.com/docs/editor/versioncontrol#_git-support](https://code.visualstudio.com/docs/editor/versioncontrol#_git-support)
