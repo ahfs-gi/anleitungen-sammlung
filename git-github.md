@@ -18,6 +18,10 @@ Weitere Ressourcen und Materialien:
 
 Hier gibt es eine private Test-Repository, wo man die Funktionen von Git und GitHub ausproieren kann: [https://github.com/ahfs-gi/test-repository](https://github.com/ahfs-gi/test-repository)
 
+> Um sich mit GitHub verbinden zu können, muss man ein Personal Access Token erstellen. 
+Diesen gibt man anstatt des normalen Passworts in die Befehlszeile bzw. in den Editor ein. 
+Anleitung dazu [hier](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token).
+
 ## Das wichtigste komprimiert
 
 ### Befehle
