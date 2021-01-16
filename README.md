@@ -15,6 +15,5 @@ Mithilfe von der Versionsverwaltungssoftware Git können viele Leute gleichzeiti
 - [Git in Visual Studio Code](git-visualstudiocode.md)
 
 ## Ionic Projekt
-
-* [Installation (Windows)](ionic-installation-windows.md)
-* [Installation (Mac)](ionic-installation-mac.md)
+Mithilfe des [Ionic-Frameworks](https://ionicframework.com/) können plattformübergreifende Apps für iOS, Android, Web, und Desktop programmiert werden.
+* [Installation](ionic-installation-windows.md)
