@@ -17,3 +17,4 @@ Mithilfe von der Versionsverwaltungssoftware Git können viele Leute gleichzeiti
 ## Ionic Projekt
 Mithilfe des [Ionic-Frameworks](https://ionicframework.com/) können plattformübergreifende Apps für iOS, Android, Web, und Desktop programmiert werden.
 * [Installation](ionic-installation-windows.md)
+* [Ionic und Angular](ionic-framework.md)
